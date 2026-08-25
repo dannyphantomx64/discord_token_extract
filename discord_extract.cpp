@@ -2,9 +2,7 @@
 /*
  * discord_extract.cpp  —  Discord Local Storage Extractor
  *
- * Built with Aether
- * 
- * 
+ * Built with trynoguard.com (Aether)
  *
  * Extracts + Decrypts:
  *   - Auth Token        (LevelDB → "tokens" key, v10 AES-256-GCM)
