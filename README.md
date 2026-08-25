@@ -1,4 +1,4 @@
-# discord_extract
+# discord_token_extract Built with trynoguard.com (Aether)
 
 Discord local storage token extractor. Demonstrates how any user-level process can recover a Discord auth token in under one second with zero privilege escalation.
 
