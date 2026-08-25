@@ -1,0 +1,12 @@
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.exp
+*.lib
+discord_output.txt
+*.txt
+.vs/
+Debug/
+Release/
+build/
